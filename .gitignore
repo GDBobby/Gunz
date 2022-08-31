@@ -1,0 +1,10 @@
+.svn\
+.vs\
+*.svn-base
+*.vsidx
+*.db
+Gunz.vcproj
+Gunz.vcxproj
+Gunz.vcxproj.filters
+Gunz.vcxproj.user
+Gunz.sln
